@@ -1,3 +1,3 @@
 # sandboxforjorido
 
-This is sandbox for data and IBM stuff
+This place to do random stuff
